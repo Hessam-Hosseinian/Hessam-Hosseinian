@@ -11,10 +11,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/RQMkfKODe8Okw/giphy.webp?cid=790b76113c31unbgqxt8qs2klp0tevefeu22nz44jyyiz3km&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="35" alt="c logo"  />
   <img width="12" />
@@ -50,6 +46,14 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="35" alt="blender logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media0.giphy.com/media/RQMkfKODe8Okw/giphy.webp?cid=790b76113c31unbgqxt8qs2klp0tevefeu22nz44jyyiz3km&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
+
+###
+
+<p align="left">Curious and passionate student at Amirkabir University, exploring the world of technology and coding. Always eager to learn and dive into new challenges!</p>
 
 ###
 
