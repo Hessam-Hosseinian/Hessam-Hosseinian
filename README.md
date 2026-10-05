@@ -1,60 +1,53 @@
-<h3 align="left">Hi 👋! My name is Hessam and I'm a bachelor's degree student, from Amirkabir university of technology of Tehran</h3>
-
-###
-
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hessam-Hosseinian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hessam-Hosseinian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+# Hi, I'm Hessam Hosseinian 👋
+
+**Computer Engineering student at Amirkabir University of Technology**
+
+I enjoy building end-to-end software systems — from mobile apps and backend APIs to distributed systems, real-time applications, and on-device ML.
+
 </div>
 
-###
+## Featured projects
+
+| Project | What it is | Main stack |
+|---|---|---|
+| [AriSam Tunes](https://github.com/Hessam-Hosseinian/AriSam-Tunes) | Full-stack Android music streaming app with offline playback, social features, and real-time chat | Kotlin, Jetpack Compose, Ktor, PostgreSQL |
+| [Event Ticketing Platform](https://github.com/Hessam-Hosseinian/event-ticketing-platform) | Ticketing platform with concurrency-safe booking, queues, messaging, and real-time updates | NestJS, React, PostgreSQL, Redis, RabbitMQ |
+| [Niloofar Super App](https://github.com/Hessam-Hosseinian/Niloofar-Project-MobileApp) | Mobile-first personal hub with local productivity tools and a neo-brutalist UI | Expo, React Native, TypeScript, SQLite |
+| [PvP Quiz App](https://github.com/Hessam-Hosseinian/PvPQuizApp) | Real-time multiplayer trivia app with chat, matchmaking, stats, and leaderboards | Flask, React, TypeScript, PostgreSQL, Socket.IO |
+| [Kafka Visual Demo](https://github.com/Hessam-Hosseinian/kafka-demo) | Visual demo of producers, partitions, consumer groups, and rebalancing | Kafka, Node.js, React |
+| [TinyML Image Classifier](https://github.com/Hessam-Hosseinian/tinyML_demo) | Offline Android image classification with TensorFlow Lite | Kotlin, Jetpack Compose, TensorFlow Lite |
+
+## Tech I work with
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="35" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="35" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="35" alt="adobepremierepro logo"  />
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,ts,react,django,flask,spring,postgres,sqlite,docker,kafka,git,linux" alt="Technology icons" />
+
 </div>
 
-###
+### Areas I enjoy
 
-<img align="right" height="150" src="https://media0.giphy.com/media/RQMkfKODe8Okw/giphy.webp?cid=790b76113c31unbgqxt8qs2klp0tevefeu22nz44jyyiz3km&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
+- Backend and API engineering
+- Distributed and event-driven systems
+- Android and cross-platform mobile development
+- Databases and data-intensive applications
+- Real-time applications
+- Applied ML and on-device inference
+- Containers and cloud-native tooling
 
-###
+## GitHub stats
 
-<p align="left">Curious and passionate student at Amirkabir University, exploring the world of technology and coding. Always eager to learn and dive into new challenges!</p>
+<div align="center">
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=Hessam-Hosseinian&show_icons=true&hide_border=true" height="160" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hessam-Hosseinian&layout=compact&langs_count=8&hide_border=true" height="160" alt="Top languages" />
 
-<br clear="both">
+</div>
 
-<img src="https://raw.githubusercontent.com/Hessam-Hosseinian/Hessam-Hosseinian/output/snake.svg" alt="Snake animation" />
+---
 
-###
+<div align="center">
+  <sub>Most repositories here are academic, experimental, or portfolio projects. Each project README documents its own scope and setup.</sub>
+</div>
